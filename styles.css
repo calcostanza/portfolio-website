@@ -259,6 +259,13 @@ header {
     text-align: right;
     left: -1.5em;
   }
+  .image--box {
+    align-items: center;
+    max-width: 60%;
+    display: grid;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
 
 .about-me {
