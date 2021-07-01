@@ -321,7 +321,7 @@ header {
 .video__container {
   position: relative;
   max-width: 100%;
-  padding-bottom: 50%;
+  padding-bottom: 20em;
   height: 0;
 }
 /* .iframe-container iframe {
